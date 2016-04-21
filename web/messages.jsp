@@ -46,7 +46,7 @@
                                         </div>
                                         <span class="name" style="min-width: 120px;;                                display: inline-block;">Alberto Gutierrez</span> <span>Mi conejo es amarillo</span>
                                         <span class="text-muted" style="font-size: 11px;">- Mi nutria tiene un color...</span> <span class="badge">12:10 AM</span> <span class="pull-right">
-                                        </span></span></a><a class="list-group-item" href="#" data-toggle="modal" data-target=".bs-example-modal-sm" >
+                                        </span></a><a class="list-group-item" href="#" data-toggle="modal" data-target=".bs-example-modal-sm" >
                                         <div class="checkbox">
                                             <label>
                                                 <input type="checkbox">
@@ -54,7 +54,7 @@
                                         </div>
                                         <span class="name" style="min-width: 120px;&#10;                                        display: inline-block;">Marcos Muñoz</span> <span>Loros Parlanchines</span>
                                         <span class="text-muted" style="font-size: 11px;">- I Lolololoolo lorororor</span> <span class="badge">12:09 AM</span> <span class="pull-right">
-                                        </span></span></a><a class="list-group-item read" href="#" data-toggle="modal" data-target=".bs-example-modal-sm" >
+                                        </span></a><a class="list-group-item read" href="#" data-toggle="modal" data-target=".bs-example-modal-sm" >
                                         <div class="checkbox">
                                             <label>
                                                 <input type="checkbox">
@@ -62,7 +62,7 @@
                                         </div>
                                         <span class="name" style="min-width: 120px;&#10;                                                display: inline-block;">Jane Patel</span> <span>Ola, Que Ase?</span>
                                         <span class="text-muted" style="font-size: 11px;">- Mascoteando,O Que Ase?</span> <span class="badge">11:30 PM</span> <span class="pull-right">
-                                            </span></span></a>
+                                        </span></a>
                                 </div>
                             </div>
 
@@ -75,7 +75,7 @@
 
 
                 <!-- Button trigger modal -->
-                
+
 
                 <!-- Modal -->
                 <!-- /.modal compose message -->
@@ -104,7 +104,7 @@
                             </div>
                             <div class="modal-footer">
                                 <button class="btn btn-default pull-left" type="button" data-dismiss="modal">Cancelar</button> 
-                               <button class="btn btn-primary " type="button">Enviar <i class="fa fa-arrow-circle-right fa-lg"></i></button>
+                                <button class="btn btn-primary " type="button">Enviar <i class="fa fa-arrow-circle-right fa-lg"></i></button>
 
                             </div>
                         </div><!-- /.modal-content -->
@@ -113,7 +113,7 @@
 
 
                 <!-- Small modal -->
-          
+
                 <div class="modal fade bs-example-modal-sm " tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
                     <div class="modal-dialog modal-sm modal-chat">
                         <div class="">
@@ -141,7 +141,7 @@
                                                         </div>
                                                     </li>
                                                     <li class="right clearfix"><span class="chat-img pull-right">
-                                                            <img src="http://placehold.it/50/FA6F57/fff&text=ME" alt="User Avatar" class="img-circle" />
+                                                            <img src="http://placehold.it/50/FA6F57/fff&text=MM" alt="User Avatar" class="img-circle" />
                                                         </span>
                                                         <div class="chat-body clearfix">
                                                             <div class="">
@@ -169,7 +169,7 @@
                                                         </div>
                                                     </li>
                                                     <li class="right clearfix"><span class="chat-img pull-right">
-                                                            <img src="http://placehold.it/50/FA6F57/fff&text=ME" alt="User Avatar" class="img-circle" />
+                                                            <img src="http://placehold.it/50/FA6F57/fff&text=MM" alt="User Avatar" class="img-circle" />
                                                         </span>
                                                         <div class="chat-body clearfix">
                                                             <div class="">
@@ -201,7 +201,12 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
 
-                <%@include file="WEB-INF/jspf/footer.jspf" %>
-                </body>
-                </html>
+
+        <%@include file="WEB-INF/jspf/footer.jspf" %>
+    </body>
+</html>
+
+
