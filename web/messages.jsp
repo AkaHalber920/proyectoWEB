@@ -44,24 +44,24 @@
                                                 <input type="checkbox">
                                             </label>
                                         </div>
-                                        <span class="name" style="min-width: 120px;;                                display: inline-block;">Alberto Gutierrez</span> <span>Nice work on the lastest version</span>
-                                        <span class="text-muted" style="font-size: 11px;">- More content here</span> <span class="badge">12:10 AM</span> <span class="pull-right">
+                                        <span class="name" style="min-width: 120px;;                                display: inline-block;">Alberto Gutierrez</span> <span>Mi conejo es amarillo</span>
+                                        <span class="text-muted" style="font-size: 11px;">- Mi nutria tiene un color...</span> <span class="badge">12:10 AM</span> <span class="pull-right">
                                         </span></span></a><a class="list-group-item" href="#" data-toggle="modal" data-target=".bs-example-modal-sm" >
                                         <div class="checkbox">
                                             <label>
                                                 <input type="checkbox">
                                             </label>
                                         </div>
-                                        <span class="name" style="min-width: 120px;&#10;                                        display: inline-block;">Marcos Muñoz</span> <span>La O de la palabra hOola</span>
-                                        <span class="text-muted" style="font-size: 11px;">- I saw that you had..</span> <span class="badge">12:09 AM</span> <span class="pull-right">
+                                        <span class="name" style="min-width: 120px;&#10;                                        display: inline-block;">Marcos Muñoz</span> <span>Loros Parlanchines</span>
+                                        <span class="text-muted" style="font-size: 11px;">- I Lolololoolo lorororor</span> <span class="badge">12:09 AM</span> <span class="pull-right">
                                         </span></span></a><a class="list-group-item read" href="#" data-toggle="modal" data-target=".bs-example-modal-sm" >
                                         <div class="checkbox">
                                             <label>
                                                 <input type="checkbox">
                                             </label>
                                         </div>
-                                        <span class="name" style="min-width: 120px;&#10;                                                display: inline-block;">Jane Patel</span> <span>This is big title</span>
-                                        <span class="text-muted" style="font-size: 11px;">- Hi hello how r u ?</span> <span class="badge">11:30 PM</span> <span class="pull-right">
+                                        <span class="name" style="min-width: 120px;&#10;                                                display: inline-block;">Jane Patel</span> <span>Ola, Que Ase?</span>
+                                        <span class="text-muted" style="font-size: 11px;">- Mascoteando,O Que Ase?</span> <span class="badge">11:30 PM</span> <span class="pull-right">
                                             </span></span></a>
                                 </div>
                             </div>
@@ -89,23 +89,22 @@
                             <div class="modal-body">
                                 <form class="form-horizontal" role="form">
                                     <div class="form-group">
-                                        <label class="col-sm-2" for="inputTo">To</label>
+                                        <label class="col-sm-2" for="inputTo">Para</label>
                                         <div class="col-sm-10"><input class="form-control" id="inputTo" type="email" placeholder="comma separated list of recipients"></div>
                                     </div>
                                     <div class="form-group">
-                                        <label class="col-sm-2" for="inputSubject">Subject</label>
+                                        <label class="col-sm-2" for="inputSubject">Asunto</label>
                                         <div class="col-sm-10"><input class="form-control" id="inputSubject" type="text" placeholder="subject"></div>
                                     </div>
                                     <div class="form-group">
-                                        <label class="col-sm-12" for="inputBody">Message</label>
+                                        <label class="col-sm-12" for="inputBody">Mensaje</label>
                                         <div class="col-sm-12"><textarea class="form-control" id="inputBody" rows="18"></textarea></div>
                                     </div>
                                 </form>
                             </div>
                             <div class="modal-footer">
-                                <button class="btn btn-default pull-left" type="button" data-dismiss="modal">Cancel</button> 
-                                <button class="btn btn-warning pull-left" type="button">Save Draft</button>
-                                <button class="btn btn-primary " type="button">Enviar <i class="fa fa-arrow-circle-right fa-lg"></i></button>
+                                <button class="btn btn-default pull-left" type="button" data-dismiss="modal">Cancelar</button> 
+                               <button class="btn btn-primary " type="button">Enviar <i class="fa fa-arrow-circle-right fa-lg"></i></button>
 
                             </div>
                         </div><!-- /.modal-content -->
@@ -115,12 +114,12 @@
 
                 <!-- Small modal -->
           
-                <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
-                    <div class="modal-dialog modal-sm">
+                <div class="modal fade bs-example-modal-sm " tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+                    <div class="modal-dialog modal-sm modal-chat">
                         <div class="">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-5">
+                                    <div class="col-md-6">
                                         <div class="panel panel-primary">
                                             <div class="panel-heading">
                                                 <span class="glyphicon glyphicon-comment"></span> Chat
@@ -133,7 +132,7 @@
                                                         <div class="chat-body clearfix">
                                                             <div class="">
                                                                 <strong class="primary-font">Jack Sparrow</strong> <small class="pull-right text-muted">
-                                                                    <span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+                                                                    <span class="glyphicon glyphicon-time"></span>Hace 12 min ago</small>
                                                             </div>
                                                             <p>
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
@@ -146,8 +145,8 @@
                                                         </span>
                                                         <div class="chat-body clearfix">
                                                             <div class="">
-                                                                <small class=" text-muted"><span class="glyphicon glyphicon-time"></span>13 mins ago</small>
-                                                                <strong class="pull-right primary-font">Bhaumik Patel</strong>
+                                                                <small class=" text-muted"><span class="glyphicon glyphicon-time"></span>Hace 13 min </small>
+                                                                <strong class="pull-right primary-font">Marcos Muñoz</strong>
                                                             </div>
                                                             <p>
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
@@ -161,7 +160,7 @@
                                                         <div class="chat-body clearfix">
                                                             <div class="">
                                                                 <strong class="primary-font">Jack Sparrow</strong> <small class="pull-right text-muted">
-                                                                    <span class="glyphicon glyphicon-time"></span>14 mins ago</small>
+                                                                    <span class="glyphicon glyphicon-time"></span>Hace 14 min</small>
                                                             </div>
                                                             <p>
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
@@ -175,7 +174,7 @@
                                                         <div class="chat-body clearfix">
                                                             <div class="">
                                                                 <small class=" text-muted"><span class="glyphicon glyphicon-time"></span>15 mins ago</small>
-                                                                <strong class="pull-right primary-font">Bhaumik Patel</strong>
+                                                                <strong class="pull-right primary-font">Marcos Muñoz</strong>
                                                             </div>
                                                             <p>
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare
@@ -187,7 +186,7 @@
                                             </div>
                                             <div class="panel-footer">
                                                 <div class="input-group">
-                                                    <input id="btn-input" type="text" class="form-control input-sm" placeholder="Type your message here..." />
+                                                    <input id="btn-input" type="text" class="form-control input-sm" placeholder="Escribe una respuesta..." />
                                                     <span class="input-group-btn">
                                                         <button class="btn btn-warning btn-sm" id="btn-chat">
                                                             Enviar</button>
