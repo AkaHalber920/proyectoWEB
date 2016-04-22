@@ -18,7 +18,7 @@
 
             <div class="row newsFila">
                 <div class="newsCellLeft well well-sm blog-post">
-                    <h3 class="blog-post-title"><a href="detalleNoticia.jsp">Ave extinta fotografiada antes de ser comida</a></h3>
+                    <h3 class="blog-post-title"><a href="detalleNoticia1.jsp">Ave extinta fotografiada antes de ser comida</a></h3>
                     <p class="blog-post-meta text-right"><em>19 de Marzo, 2016 por <a href="#">Juan Olmedo</a></em></p>    
                     <div class="newsCajaImagen"><img src="imagenes/news/noticia1.jpg" alt="ave linda" class="img-responsive img-thumbnail center-block"></div>
                     <div class="newsCajaTexto">
@@ -27,7 +27,7 @@
                     </div>
                 </div>
                 <div class="newsCellRight well well-sm blog-post">
-                    <h3 class="blog-post-title"><a href="detalleNoticia.jsp">Fósil hallado recientemente vincula al ser humano con los lemures</a></h3>
+                    <h3 class="blog-post-title"><a href="detalleNoticia2.jsp">Fósil hallado recientemente vincula al ser humano con los lemures</a></h3>
                     <p class="blog-post-meta text-right"><em>1 de Enero, 2016 por <a href="#">Oscar Ramirez</a></em> <a href="http://www.nationalgeographic.es/animales/sil-hallado-recientemente">[NationalGeographic]</a></p>    
                     <div class="newsCajaImagen"><img src="imagenes/news/noticia2.jpg" alt="fosil y radiografia" class="img-responsive img-thumbnail center-block"></div>
                     <div class="newsCajaTexto">
@@ -37,7 +37,7 @@
             </div>
             <div class="row newsFila">
                 <div class="newsCellLeft well well-sm blog-post">
-                    <h3 class="blog-post-title"><a href="detalleNoticia.jsp">El impulso vegetariano de Barcelona genera dudas entre los carniceros</a></h3>
+                    <h3 class="blog-post-title"><a href="#">El impulso vegetariano de Barcelona genera dudas entre los carniceros</a></h3>
                     <p class="blog-post-meta text-right"><em>31 de Mayo, 2015 por <a href="#">Natalia Diaz</a></em></p>    
                     <div class="newsCajaImagen"><img src="imagenes/news/noticia5.jpg" alt="carniceria de barrio" class="img-responsive img-thumbnail center-block"></div>
                     <div class="newsCajaTexto">
@@ -46,7 +46,7 @@
                     </div>
                 </div>
                 <div class="newsCellRight well well-sm blog-post">
-                    <h3 class="blog-post-title"><a href="detalleNoticia.jsp">Zimbabue, el elefante más querido por Pereira, se fue de la ciudad</a></h3>
+                    <h3 class="blog-post-title"><a href="#">Zimbabue, el elefante más querido por Pereira, se fue de la ciudad</a></h3>
                     <p class="blog-post-meta text-right"><em>25 de Mayo, 2015 por <a href="#">John Suarez</a></em></p>    
                     <div class="newsCajaImagen"><img src="imagenes/news/noticia6.jpg" alt="elefante en parcela" class="img-responsive img-thumbnail center-block"></div>
                     <div class="newsCajaTexto">
@@ -57,7 +57,7 @@
             </div>
             <div class="row newsFila">
                 <div class="newsCellLeft well well-sm blog-post">
-                    <h3 class="blog-post-title"><a href="detalleNoticia.jsp">Los flamencos se «maquillan» para impresionar a sus parejas</a></h3>
+                    <h3 class="blog-post-title"><a href="#">Los flamencos se «maquillan» para impresionar a sus parejas</a></h3>
                     <p class="blog-post-meta text-right"><em>25 de Mayo, 2016 por <a href="#">Paula Martínez</a></em> <a href="http://www.nationalgeographic.es/animales/101110-flamingos-makeup-mating-science-animals">[NationalGeographic]</a></p>    
                     <div class="newsCajaImagen"><img src="imagenes/news/noticia4.jpg" alt="ave linda" class="img-responsive img-thumbnail center-block"></div>
                     <div class="newsCajaTexto">
@@ -65,7 +65,7 @@
                     </div>
                 </div>
                 <div class="newsCellRight well well-sm blog-post">
-                    <h3 class="blog-post-title"><a href="detalleNoticia.jsp">Hallan en Panamá fósiles de primer mono de América del Norte</a></h3>
+                    <h3 class="blog-post-title"><a href="#">Hallan en Panamá fósiles de primer mono de América del Norte</a></h3>
                     <p class="blog-post-meta text-right"><em>2 de Junio, 2015 por <a href="#">Jaime Lucas Fernández</a></em></p>    
                     <div class="newsCajaImagen"><img src="imagenes/news/noticia3.jpg" alt="mono sentado" class="img-responsive img-thumbnail  center-block"></div>
                     <div class="newsCajaTexto">

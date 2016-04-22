@@ -30,20 +30,34 @@
                     <p>Michael Lu, presidente del Wild Bird Club de Filipinas, declaró a AFP que la abrupta desaparición de esta ave debe inspirar una «concienciación local» con respecto de la fauna salvaje en peligro de la región.</p>
                     <blockquote>¿Y si fuese el último ejemplar de su especie? preguntó Lu.</blockquote>
                     <p>Sin embargo, esta codorniz procede de una familia de aves notoriamente reservadas y discretas, según la organización sin fines de lucro Birdlife International, por lo que la especie podría haber sobrevivido sin detección ni avistamientos en otras regiones.</p>
-                    <p></p>
-                    <p></p>
-
-
                 </div>
 
 
                 <!-- FIN DEL DETALLE DE NOTICIA -->
                 <div class="limpiaClear"></div>
             </div> 
-
-            <!-- Contenedor Principal -->
+            <hr>
+            <!-- Comentarios -->
             <div class="well">
+                <div>
+                    <h2 class="title floatIzquierda">Comentarios</h2>
+                    <span class="floatDerecha"><a href="#">Inicia sesión para poder comentar.</a></span>
+                </div>
+                <div class="limpiaClear"></div>
+                <hr>
                 <ul class="newsListComentarios">
+                    <!-- Formulario para nuevo comentario -->
+                    <li>
+                        <div class="newsComentarioAvatar"><img src="imagenes/avatar3.jpg" alt=""></div>
+                        <form class="newsFormComentario" method="post">
+                            <div class="newsCajaComentario">
+                                <textarea  name="content" rows="3" onClick='content.value = ""'>¿Tienes algo que decir?</textarea>
+                            </div>
+                            <input class="btn btn-default" type="submit" value="Comentar" />
+                        </form>
+                        <hr>
+                    </li>
+                    <!-- Lista de comentarios -->
                     <li>
                         <div class="newsItemComentario">
                             <!-- Avatar -->
@@ -55,7 +69,7 @@
                                     <span>hace 20 minutos</span>
                                 </div>
                                 <div class="newsComentarioContent">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?
+                                    Vaya asco de noticia. Por cierto, me gustan mucho las aves. :D
                                 </div>
                             </div>
                         </div>
@@ -63,23 +77,19 @@
                     <li>
                         <div>
                             <!-- Avatar -->
-                            <div class="newsComentarioAvatar"><img src="imagenes/avatar1.jpg" alt=""></div>
+                            <div class="newsComentarioAvatar"><img src="imagenes/avatar2.jpg" alt=""></div>
                             <!-- Contenedor del Comentario -->
                             <div class="newsCajaComentario">
                                 <div class="newsComentarioHead">
-                                    <h6 class="newsComentarioAutor"><a href="#">Agustin Ortiz</a></h6>
-                                    <span>hace 20 minutos</span>
+                                    <h6 class="newsComentarioAutor"><a href="#">Paula Gutierrez</a></h6>
+                                    <span>hace 1 hora</span>
                                 </div>
                                 <div class="newsComentarioContent">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?
+                                    <a href="#">@Agustin Ortiz</a> por qué eres tan pesaoo!!!
                                 </div>
                             </div>
                         </div>
                     </li>
-                    
-
-
-                    
                 </ul>
             </div>
 
