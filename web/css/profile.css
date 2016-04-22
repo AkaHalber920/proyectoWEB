@@ -28,14 +28,15 @@ body
 @media (max-width:768px)
 {
     
-.fb-profile-text>h1{
+.fb-profile-text{
+    color: #369;
     font-weight: 700;
     font-size:16px;
 }
 
-.fb-textover>h1{
-    color: #F3F3F3;
-    font-weight: 70;
+.fb-textover{
+    color: #369;
+    font-size: 70px;
     font-size:500px;
 }
 

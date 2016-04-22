@@ -21,14 +21,15 @@
         <div class="container">
             <div class="fb-profile">
                 <TABLE>
-                    <TR>
-                        <TD WIDTH="1800" HEIGHT="280" BACKGROUND="imagenes/fondo.jpg" align: center alt="Profile background image example" VALIGN=top>
-                            <div class="fb-textover">
+                
+                        <TD WIDTH="1800" HEIGHT="280" BACKGROUND="imagenes/fondo.jpg" center alt="Profile background image example" VALIGN=top>
+                            <div class="container">
+                                <font color="#fff">
                                 <h1>Eli Macy</h1>
                                 <p>Me encanta cuidar de mis mascotas.</p>
                             </div>
                         </TD>
-                    </TR>
+                   
                 </TABLE>
                 <img align="left" class="fb-image-profile thumbnail" src="imagenes/chica.jpg" alt="Profile image example"/>
                 <img align="left" class="fb-image-petprofile thumbnail" src="imagenes/perro.jpg" alt="Profile image example"/>
