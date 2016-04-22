@@ -1,0 +1,45 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<!doctype html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html">
+  <title>Vertical Responsive Timeline UI</title>
+  <link rel="shortcut icon" href="imagenes/huella.ico">
+  <link rel="icon" href="imagenes/huella.ico">
+  <link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" media="all" href="css/bootstrap-glyphicons.css">
+  <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
+  <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+</head>
+<div class="container">
+<ul class="timeline">
+  <li><div class="tldate">Apr 2014</div></li>
+ 
+  <li>
+    <div class="tl-circ"></div>
+    <div class="timeline-panel">
+      <div class="tl-heading">
+        <h4>Surprising Headline Right Here</h4>
+        <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 3 hours ago</small></p>
+      </div>
+      <div class="tl-body">
+        <p>Lorem Ipsum and such.</p>
+      </div>
+    </div>
+  </li>
+ 
+  <li class="timeline-inverted">
+    <div class="tl-circ"></div>
+    <div class="timeline-panel">
+      <div class="tl-heading">
+        <h4>Breaking into Spring!</h4>
+        <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 4/07/2014</small></p>
+      </div>
+      <div class="tl-body">
+        <p>Hope the weather gets a bit nicer...</p>
+ 
+        <p>Y'know, with more sunlight.</p>
+      </div>
+    </div>
+  </li>
+ </div> <!-- /container -->   

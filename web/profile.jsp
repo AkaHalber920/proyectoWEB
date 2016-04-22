@@ -36,8 +36,14 @@
                 <img align="left" class="fb-image-petprofile thumbnail" src="imagenes/gatete.jpg" alt="Profile image example"/>
                 <img align="left" class="fb-image-petprofile thumbnail" src="imagenes/loro.jpg" alt="Profile image example"/>
             </div>
-        </div> <!-- /container -->      
+        </div> <!-- /container -->     
         
+        <div class="container">
+        <%@include file="WEB-INF/jspf/timeline.jspf" %>
+        </div> <!-- /container -->  
+        
+        <div class="container">
         <%@include file="WEB-INF/jspf/footer.jspf" %>
+        </div> <!-- /container --> 
     </body>
 </html>
