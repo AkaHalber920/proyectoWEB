@@ -59,7 +59,11 @@
         
         <div class="container">
         <%@include file="WEB-INF/jspf/timeline.jspf" %>
-        </div> <!-- /container -->  
+        </div> <!-- /container -->
+        
+        <div class="container">
+        <%@include file="WEB-INF/jspf/galeria.jspf" %>
+        </div> <!-- /container -->
         
         <div class="container">
         <%@include file="WEB-INF/jspf/footer.jspf" %>
