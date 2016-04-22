@@ -39,6 +39,25 @@
         </div> <!-- /container -->     
         
         <div class="container">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                  <h2 class="panel-title">Información del usuario</h2>
+                </div>
+                <div class="panel-body">
+                    <p>
+                        Fecha de nacimiento:
+                    </p>
+                    <p>
+                        Vive en:
+                    </p>
+                    <p>
+                        Trabaja en:
+                    </p>
+                </div>
+            </div>
+        </div> <!-- /container -->   
+        
+        <div class="container">
         <%@include file="WEB-INF/jspf/timeline.jspf" %>
         </div> <!-- /container -->  
         

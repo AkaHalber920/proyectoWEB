@@ -1,6 +1,10 @@
-body { background: #333; }
+body { 
+    background: #333; }
 
-img { border: 0; max-width: 100%; }
+img {
+    border: 0; 
+    max-width: 100%; 
+}
  
 .page-header h1 {
   font-size: 3.26em;
@@ -12,7 +16,7 @@ img { border: 0; max-width: 100%; }
 /** timeline box structure **/
 .timeline {
   list-style: none;
-  padding: 20px 0 20px;
+  padding: 20px 30px 200px;
   position: relative;
 }
  
@@ -31,9 +35,9 @@ img { border: 0; max-width: 100%; }
   display: block;
   width: 200px;
   background: #414141;
-  border: 3px solid #212121;
-  color: #ededed;
-  margin: 0 auto;
+  border: 3px solid #000;
+  color: #fff;
+  margin: auto auto;
   padding: 3px 0;
   font-weight: bold;
   text-align: center;
@@ -42,16 +46,17 @@ img { border: 0; max-width: 100%; }
  
 .timeline li {
   margin-bottom: 25px;
+  margin-top: 25px;
   position: relative;
 }
 
 /** timeline panels **/
 .timeline li .timeline-panel {
-  width: 46%;
-  float: left;
+  width: 45%;
+  float: start;
   background: #fff;
   border: 1px solid #d4d4d4;
-  padding: 20px;
+  padding: 25px;
   position: relative;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
@@ -112,7 +117,7 @@ img { border: 0; max-width: 100%; }
 
 /** RESPONSIVE **/
 /** media queries **/
-@media (max-width: 991px) {
+@media (max-width: 1000px) {
   .timeline li .timeline-panel {
     width: 44%;
   }
