@@ -18,24 +18,16 @@
         <!-- BODY DE LA PAGINA -->
         
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<div class="container">
-    <div class="fb-profile">
-        <div class="container fondo" >
-            <div class="fb-profile-text">
-            <h1>Eli Macy</h1>
-            <p>Probando, probando 1, 2, 3.</p>
+        <div class="container">
+            <div class="fb-profile">
+                <img align="left" class="fb-image-lg" src="imagenes/fondo.jpg" alt="Profile background image example"/>
+                <img align="left" class="fb-image-profile thumbnail" src="imagenes/chica.jpg" alt="Profile image example"/>
+                <div class="fb-profile-text">
+                    <h1>Eli Macy</h1>
+                    <p>Girls just wanna go fun.</p>
+                </div>
             </div>
-        </div>
-        <img align="left" class="fb-image-profile thumbnail" src="imagenes/chica.jpg" alt="Profile image example"/>
-        <img align="left" class="fb-image-profile thumbnail" src="imagenes/perro.jpg" alt="Profile image example"/>
-        <img align="left" class="fb-image-profile thumbnail" src="imagenes/gatete.jpg" alt="Profile image example"/>
-        <img align="left" class="fb-image-profile thumbnail" src="imagenes/loro.jpg" alt="Profile image example"/>
-        <div class="fb-profile-text">
-            <h1>Eli Macy</h1>
-            <p>Girls just wanna go fun.</p>
-        </div>
-    </div>
-</div> <!-- /container -->  
+        </div> <!-- /container -->      
         
         <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>
