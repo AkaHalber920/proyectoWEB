@@ -20,12 +20,20 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
         <div class="container">
             <div class="fb-profile">
-                <img align="left" class="fb-image-lg" src="imagenes/fondo.jpg" alt="Profile background image example"/>
+                <TABLE>
+                    <TR>
+                        <TD WIDTH="1800" HEIGHT="280" BACKGROUND="imagenes/fondo.jpg" align: center alt="Profile background image example" VALIGN=top>
+                            <div class="fb-textover">
+                                <h1>Eli Macy</h1>
+                                <p>Me encanta cuidar de mis mascotas.</p>
+                            </div>
+                        </TD>
+                    </TR>
+                </TABLE>
                 <img align="left" class="fb-image-profile thumbnail" src="imagenes/chica.jpg" alt="Profile image example"/>
-                <div class="fb-profile-text">
-                    <h1>Eli Macy</h1>
-                    <p>Girls just wanna go fun.</p>
-                </div>
+                <img align="left" class="fb-image-petprofile thumbnail" src="imagenes/perro.jpg" alt="Profile image example"/>
+                <img align="left" class="fb-image-petprofile thumbnail" src="imagenes/gatete.jpg" alt="Profile image example"/>
+                <img align="left" class="fb-image-petprofile thumbnail" src="imagenes/loro.jpg" alt="Profile image example"/>
             </div>
         </div> <!-- /container -->      
         

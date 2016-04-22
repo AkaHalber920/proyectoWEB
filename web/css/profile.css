@@ -3,7 +3,7 @@ body
     font-family: 'Open Sans', sans-serif;
 }
 
-.fb-profile img.fb-image-lg{
+.fb-profile {
     z-index: 0;
     width: 100%;  
     margin-bottom: 10px;
@@ -13,7 +13,16 @@ body
 {
     margin: -90px 10px 0px 50px;
     z-index: 9;
-    width: 20%; 
+    width: 200px; 
+    height: 200px;
+}
+
+.fb-image-petprofile
+{
+    margin: -45px 10px 0px 50px;
+    z-index: 9;
+    width: 150px; 
+    height: 150px;
 }
 
 @media (max-width:768px)
@@ -24,10 +33,10 @@ body
     font-size:16px;
 }
 
-.fb-image-profile
-{
-    margin: -45px 10px 0px 25px;
-    z-index: 9;
-    width: 20%; 
+.fb-textover>h1{
+    color: #F3F3F3;
+    font-weight: 70;
+    font-size:500px;
 }
+
 }
